@@ -4,7 +4,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        String nombre = "Ana";
+        String nombre = "Francisco";
 
         saludar(nombre);
         System.out.println("Número de caracteres: " + contarCaracteres(nombre));
